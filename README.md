@@ -23,31 +23,31 @@ Ciascun Utente dovrà avere la possibilità di caricare un'immagine per il propr
  - **Pubblicazione Post Utente:**
 Ciascun Utente potrà pubblicare post comprensivi di contenuto testuale e di un'eventuale immagine; una volta pubblicato, non sarà facoltà dell'Utente, modificare o eliminare il suo post.
 
-- **Likes e Commenti Post**
+- **Likes e Commenti Post:**
 Ciascun Utente potrà apporre un solo “like” ad un post pubblicato da altri o da se stesso e potrà commentare (senza limiti) un post proprio o di altri Utenti; like e commenti dovranno essere riconducibili all'Utente che li ha apposti.
 
-- **Interazione tra Utenti**
+- **Interazione tra Utenti:**
 Ciascun Utente, ricercando tra i “registrati” alla piattaforma, potrà inviare “richieste di amicizia” ad altri Utenti; ogni richiesta potrà essere accettata o rifiutata dall'Utente ricevente e, colui che l'ha inviata, potrà ritirarla sino a quando non ancora accettata. Ciascun Utente, nell'apposita “sezione notizie”, potrà visualizzare i suoi post oltre ai post di altri Utenti con cui ha “rapporti di amicizia” confermati.
 
-- **Logout e Disiscrizione**
+- **Logout e Disiscrizione:**
 Ciascun Utente dovrà poter effettuare il logout dalla piattaforma e dovrà poter cancellare il proprio profilo. La cancellazione del profilo di un Utente, comporterà la cancellazione di tutte le attività riconducibili allo stesso nell'ambito della piattaforma.
 
-- **Upgrade a Profilo Business**
+- **Upgrade a Profilo Business:**
 Dovrà essere data facoltà, a ciascun Utente registrato, di passare dall'originario profilo “Private” ad un profilo “Business”. Tale upgrade, offrirà all'Utente una seconda area riservata attraverso la quale poter sottoscrivere delle campagne promozionali mirate alla maggior diffusione dei suoi post.
 
-- **Area Utente Business**
+- **Area Utente Business:**
 In tale sezione, ciascun Utente con profilo “Business” potrà visualizzare un riepilogo dei suoi post pubblicati. Selezionando uno specifico post, egli potrà scegliere tra una delle tipologie di campagne promozionali proposte, impostarne data di inizio e fine oltrechè un budget giornaliero. Sottoscrivendo la campagna, otterrà un riepilogo della stessa ed un “risultato prestazionale stimato della campagna”. Nella medesima sezione, l'Utente potrà visualizzare l'elenco delle campagne sottoscritte e lo stato di
 ciascuna (Attiva, Programmata, Terminata).
 
-- **Gestione Campagne**
+- **Gestione Campagne:**
 Il progetto non richiede implementazione di una “dashboard amministratore” e pertanto, le tipologie di campagne pubblicitarie opzionabili dagli “Utenti Business”, verranno gestite direttamente a livello di database MySql (inserimenti diretti in tabella dedicata).
 
 ## Team
 - **Front End:**
 Claudia Lella, Felice Lafiandra
-- **Back End**
+- **Back End:**
 Claudia Lella, Felice Lafiandra, Serena Fedeli, Emmanuele Di Franco, Leonardo Ruta, Eleonora Pica, Anisa Baruti, Filippo Dentale, Stefano Giovannelli
-- **Database**
+- **Database:**
 Claudia Lella, Felice Lafiandra, Serena Fedeli, Emmanuele Di Franco, Leonardo Ruta, Eleonora Pica, Anisa Baruti, Filippo Dentale, Stefano Giovannelli
 
 _Questo esercizio è stato eseguito all'interno del corso di Generation Italy con l'affiancamento di Accademia del Levante. Ogni diritto è riservato._
